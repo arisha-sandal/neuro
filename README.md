@@ -1,13 +1,13 @@
-# NEURO
+ # NEURO
 A multi page educational website about the human brain built with HTML.
 
 # Pages
--Learning
--Memory
--Sleep
--Brain myths
--Brain care
--Short quiz
+- Learning
+- Memory
+- Sleep
+- Brain myths
+- Brain care
+- Short quiz
 
 ## Built with
 HTML
