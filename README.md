@@ -9,7 +9,7 @@ A multi page educational website about the human brain built with HTML.
 -Brain care
 -Short quiz
 
-##Built with
+## Built with
 HTML
 
 ## What I learned
